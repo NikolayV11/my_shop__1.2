@@ -1,0 +1,18 @@
+/* шапка */
+.header {
+  background-color: white;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__logo {
+  align-self: center;
+}
+
+/* Навигация */
+.header__navigation {
+  display: flex;
+}

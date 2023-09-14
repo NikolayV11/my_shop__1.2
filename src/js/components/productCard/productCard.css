@@ -1,0 +1,16 @@
+/* Карточка товара */
+.product-list__item {
+  border: 2px solid gray;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.product-list__title {
+  margin: 0 0 15px;
+  font-size: 20px;
+}
+.product-list__price {
+  margin: 0 0 15px;
+  font-size: 21px;
+}
